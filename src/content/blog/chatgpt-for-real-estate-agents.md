@@ -5,7 +5,7 @@ pubDate: 2026-04-17
 description: "Learn how real estate agents use ChatGPT to save 8+ hours weekly on listing descriptions, lead emails, and market updates. Copy-paste prompts included."
 author: "Alex Morgan"
 tags: ["chatgpt for real estate agents"]
-seoTitle: "ChatGPT for Real Estate Agents: Practical Prompts & Guide | Shopify Playbook"
+seoTitle: "ChatGPT for Real Estate Agents: Practical Prompts & Guide | AgentAI Guide"
 ---
 
 # ChatGPT for Real Estate Agents: A Practical Guide
