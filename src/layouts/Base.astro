@@ -6,25 +6,22 @@ interface Props {
 }
 const { title, description, canonicalUrl } = Astro.props;
 const canon = canonicalUrl || Astro.url.href;
+const GA_ID = 'G-PLACEHOLDER';
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#15803d" />
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canon} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-PLACEHOLDER');
-  </script>
+  <link rel="preconnect" href="https://www.googletagmanager.com" />
+  <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 </head>
 <body class="bg-white text-gray-900 font-sans">
   <header class="border-b border-gray-200 px-6 py-4">
@@ -52,5 +49,12 @@ const canon = canonicalUrl || Astro.url.href;
       </ul>
     </div>
   </footer>
+  <script defer src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
+  <script define:vars={{ GA_ID }}>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', GA_ID);
+  </script>
 </body>
 </html>
