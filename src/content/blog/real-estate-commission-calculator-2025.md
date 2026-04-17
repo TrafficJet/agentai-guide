@@ -5,7 +5,7 @@ pubDate: 2026-04-17
 description: "Calculate real estate agent commissions instantly. Adjust rates, see seller net proceeds, and understand 2025 NAR settlement changes affecting your home sale."
 author: "Alex Morgan"
 tags: ["real estate commission calculator 2025"]
-seoTitle: "Real Estate Commission Calculator 2025 | Shopify Playbook"
+seoTitle: "Real Estate Commission Calculator 2025 | AgentAI Guide"
 ---
 
 
