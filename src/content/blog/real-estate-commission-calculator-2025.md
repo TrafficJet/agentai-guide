@@ -199,3 +199,11 @@ Yes. Under the post-settlement rules, sellers are not required to offer buyer ag
 ---
 
 *Ready to estimate your full [home selling costs](/home-selling-costs)? Start with the calculator above, then read our step-by-step guide on [how to sell your house](/how-to-sell-your-house) for a complete roadmap from listing to closing.*
+
+---
+
+<div style="background:#f0f9eb;border-left:4px solid #5a9e3f;padding:16px 20px;margin:32px 0;border-radius:4px;">
+<strong>AI tools for real estate agents:</strong><br>
+ChatGPT, Perplexity, and AI CRM tools are changing how top agents work in 2025.
+<a href="https://agentai-guide.com/blog/ai-tools-for-real-estate-agents/" style="display:inline-block;margin-top:10px;background:#5a9e3f;color:#fff;padding:8px 20px;border-radius:4px;text-decoration:none;font-weight:600;">See AI Tools for Agents →</a>
+</div>

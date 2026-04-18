@@ -243,3 +243,11 @@ Use caution. OpenAI's free and Plus plans may use conversations to train models 
 ---
 
 *ChatGPT won't replace great agents. But agents who use ChatGPT will typically outproduce those who don't — because they'll spend less time writing and more time closing.*
+
+---
+
+<div style="background:#f0f9eb;border-left:4px solid #5a9e3f;padding:16px 20px;margin:32px 0;border-radius:4px;">
+<strong>AI tools for real estate agents:</strong><br>
+ChatGPT, Perplexity, and AI CRM tools are changing how top agents work in 2025.
+<a href="https://agentai-guide.com/blog/ai-tools-for-real-estate-agents/" style="display:inline-block;margin-top:10px;background:#5a9e3f;color:#fff;padding:8px 20px;border-radius:4px;text-decoration:none;font-weight:600;">See AI Tools for Agents →</a>
+</div>
