@@ -207,3 +207,10 @@ Yes. Under the post-settlement rules, sellers are not required to offer buyer ag
 ChatGPT, Perplexity, and AI CRM tools are changing how top agents work in 2025.
 <a href="https://agentai-guide.com/blog/ai-tools-for-real-estate-agents/" style="display:inline-block;margin-top:10px;background:#5a9e3f;color:#fff;padding:8px 20px;border-radius:4px;text-decoration:none;font-weight:600;">See AI Tools for Agents →</a>
 </div>
+
+
+## Know Your Commission Before Negotiating
+
+Understanding local commission rates gives you leverage. Use the [free real estate commission calculator](https://commission-calc.com/) to see what agents in your market typically earn — and what you should negotiate:
+- [Commission Calculator — your city](https://commission-calc.com/commission/)
+- [2025 Commission Guide](https://commission-calc.com/blog/real-estate-commission-calculator-2025/)
