@@ -3,10 +3,11 @@ interface Props {
   title: string;
   description: string;
   canonicalUrl?: string;
+  noindex?: boolean;
 }
-const { title, description, canonicalUrl } = Astro.props;
+const { title, description, canonicalUrl, noindex } = Astro.props;
 const canon = canonicalUrl || Astro.url.href;
-const GA_ID = 'G-PLACEHOLDER';
+const GA_ID = 'G-41YPQ25ZH6';
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -19,9 +20,16 @@ const GA_ID = 'G-PLACEHOLDER';
   <link rel="canonical" href={canon} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
+  <meta property="og:url" content={canon} />
   <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="preconnect" href="https://www.googletagmanager.com" />
   <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+  {noindex && <meta name="robots" content="noindex, follow" />}
 </head>
 <body class="bg-white text-gray-900 font-sans">
   <header class="border-b border-gray-200 px-6 py-4">
