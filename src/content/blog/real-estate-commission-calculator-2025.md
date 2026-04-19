@@ -1,16 +1,16 @@
 ---
-title: "Real Estate Commission Calculator 2025"
+title: "Real Estate Commission Calculator 2026"
 slug: "real-estate-commission-calculator-2025"
 pubDate: 2026-04-17
-description: "Calculate real estate agent commissions instantly. Adjust rates, see seller net proceeds, and understand 2025 NAR settlement changes affecting your home sale."
+description: "Calculate real estate agent commissions instantly. Adjust rates, see seller net proceeds, and understand NAR settlement changes affecting your home sale in 2026."
 author: "Alex Morgan"
-tags: ["real estate commission calculator 2025"]
-seoTitle: "Real Estate Commission Calculator 2025 | AgentAI Guide"
+tags: ["real estate commission calculator 2026"]
+seoTitle: "Real Estate Commission Calculator 2026 | AgentAI Guide"
 ---
 
 
 
-# Real Estate Commission Calculator 2025
+# Real Estate Commission Calculator 2026
 
 Use the calculator below to estimate how much you'll pay in agent commissions when selling your home. Enter your sale price, adjust the commission rates, and see your estimated net proceeds instantly.
 
