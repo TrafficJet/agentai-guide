@@ -20,11 +20,10 @@ const schema = {
   "publisher": { "@type": "Organization", "name": "AgentAI Guide", "url": "https://agentai-guide.com" }
 };
 ---
-<Base title={post.data.seoTitle || post.data.title} description={post.data.description} canonicalUrl={canonicalUrl}>
+<Base title={post.data.seoTitle || post.data.title} description={post.data.description} canonicalUrl={canonicalUrl} ogImage={post.data.heroImage || undefined}>
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <article class="max-w-3xl mx-auto prose prose-green prose-lg">
     <p class="text-sm text-gray-400 not-prose mb-4">{post.data.pubDate.toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'})} · By {post.data.author}</p>
-    <h1>{post.data.title}</h1>
     <Content />
     <div class="not-prose mt-10 p-4 bg-gray-50 border border-gray-200 rounded-lg text-xs text-gray-500">
       <strong>Affiliate Disclosure:</strong> AgentAI Guide may earn a commission when you click links to products or services we recommend. This does not affect our editorial independence — we only recommend tools we believe provide real value to real estate agents.
