@@ -4,8 +4,9 @@ interface Props {
   description: string;
   canonicalUrl?: string;
   noindex?: boolean;
+  ogImage?: string;
 }
-const { title, description, canonicalUrl, noindex } = Astro.props;
+const { title, description, canonicalUrl, noindex, ogImage } = Astro.props;
 const canon = canonicalUrl || Astro.url.href;
 const GA_ID = 'G-41YPQ25ZH6';
 ---
@@ -25,6 +26,8 @@ const GA_ID = 'G-41YPQ25ZH6';
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  {ogImage && <meta name="twitter:image" content={ogImage} />}
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="preconnect" href="https://www.googletagmanager.com" />
