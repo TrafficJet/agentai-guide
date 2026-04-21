@@ -29,17 +29,17 @@ Use the calculator below to estimate how much you'll pay in agent commissions wh
 
 ## How to Use the Commission Calculator
 
-Start by typing your expected sale price into the input field. The calculator defaults to 5.5% total commission, split evenly between listing agent and buyer's agent. That's a common mid-range rate — not a required one.
+Type your expected sale price into the input field. The calculator defaults to 5.5% total commission, split evenly between listing agent and buyer's agent. That's a common mid-range rate — not a required one.
 
-You can change the total percentage or adjust each side on its own. For example, set the listing agent at 2.5% and the buyer's agent at 3%, or flip it the other way.
+You can change the total percentage or adjust each side separately. For example, set the listing agent at 2.5% and the buyer's agent at 3%, or flip it the other way.
 
-Once you enter your numbers, the calculator shows the dollar amount each agent earns, plus your estimated net proceeds after commission and closing costs. The 5–6% default is there for reference only. Your actual rate depends on your market, your agent, and how you negotiate.
+Enter your numbers. The calculator shows what each agent earns, plus your estimated net proceeds after commission and closing costs. The 5–6% default is for reference only. Your actual rate depends on your market, your agent, and how you negotiate.
 
 ## What Is a Real Estate Commission in 2025?
 
-A real estate commission is a percentage of the final sale price paid to the agents involved. Historically, the seller paid this fee at closing — covering both their own agent and the buyer's agent.
+A real estate commission is a percentage of the final sale price paid to the agents involved. Traditionally, the seller paid this fee at closing — covering both their own agent and the buyer's agent.
 
-No law sets a required rate. Commissions have always been negotiable, a point the FTC made directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, the typical range is 4.5% to 6%, though your local market may run higher or lower.
+No law sets a required rate. Commissions have always been negotiable. The FTC made that point directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, the typical range is 4.5% to 6%, though local markets run higher or lower.
 
 The biggest shift in 2025 came from the NAR settlement, which took effect August 17, 2024. Under the new rules, buyer agent compensation is negotiated separately from the listing agreement. Buyers must sign a written representation agreement disclosing their agent's fee before touring homes. Sellers no longer automatically bundle the buyer agent commission into their listing — they choose whether to offer it, and how much.
 
