@@ -29,27 +29,27 @@ Use the calculator below to estimate how much you'll pay in agent commissions wh
 
 ## How to Use the Commission Calculator
 
-Start by entering your expected sale price. The calculator defaults to 5.5% total commission, split evenly between listing agent and buyer's agent. That's a common mid-range number — not a required fee.
+Start by typing your expected sale price into the input field. The calculator defaults to 5.5% total commission, split evenly between listing agent and buyer's agent. That's a common mid-range rate — not a required one.
 
-You can adjust the total rate or set each side separately. For example, 2.5% listing side and 3% buyer side, or the reverse.
+You can change the total percentage or adjust each side on its own. For example, set the listing agent at 2.5% and the buyer's agent at 3%, or flip it the other way.
 
-Once you enter your numbers, the calculator shows what each agent earns and what you take home after commission and closing costs. The 5–6% default is there for context only. Your actual rate depends on your market, your agent, and how you negotiate.
+Once you enter your numbers, the calculator shows the dollar amount each agent earns, plus your estimated net proceeds after commission and closing costs. The 5–6% default is there for reference only. Your actual rate depends on your market, your agent, and how you negotiate.
 
 ## What Is a Real Estate Commission in 2025?
 
-A real estate commission is a percentage of the final sale price paid to the agents involved. Historically, the seller paid this fee at closing — covering both the listing agent and the buyer's agent.
+A real estate commission is a percentage of the final sale price paid to the agents involved. Historically, the seller paid this fee at closing — covering both their own agent and the buyer's agent.
 
-There is no legally required rate. Commissions have always been negotiable. The FTC made this point directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, rates typically fall between 4.5% and 6%, but local markets vary.
+No law sets a required rate. Commissions have always been negotiable, a point the FTC made directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, the typical range is 4.5% to 6%, though your local market may run higher or lower.
 
-The biggest change in 2025 comes from the NAR settlement that took effect August 17, 2024. Under the new rules, buyer agent compensation is negotiated separately from the listing agreement. Buyers must sign a written representation agreement disclosing their agent's fee before touring any home. Sellers no longer automatically bundle the buyer agent fee into the listing — they decide whether to offer it and how much.
+The biggest shift in 2025 came from the NAR settlement, which took effect August 17, 2024. Under the new rules, buyer agent compensation is negotiated separately from the listing agreement. Buyers must sign a written representation agreement disclosing their agent's fee before touring homes. Sellers no longer automatically bundle the buyer agent commission into their listing — they choose whether to offer it, and how much.
 
-**Real-world example:** Jane, a seller in Austin, TX, listed her home for $410,000 in early 2025. She negotiated a 1.5% listing fee and offered 2.5% to buyer's agents. Total commission: 4% ($16,400) instead of the typical 5.5% ($22,550). That one negotiation saved her $6,150.
+**Real-world example:** Jane, a seller in Austin, TX, listed her home for $410,000 in early 2025. She negotiated a 1.5% listing fee and offered 2.5% to buyer's agents. Total commission: 4%, or $16,400. The typical 5.5% would have cost her $22,550. That one negotiation saved her $6,150.
 
-Many sellers don't realize how much room exists here. A 2024 Clever Real Estate survey found that 57% of sellers who asked for a lower rate actually got one.
+Most buyers and sellers underestimate how much room exists here. A 2024 Clever Real Estate survey found that 57% of sellers who asked for a lower rate actually got one.
 
 ## Average Commission Rates by State (2025 Data)
 
-Rates vary a lot by location. States with higher home values tend to have lower percentage rates — agents still earn well per deal even at a smaller cut.
+Rates vary a lot by location. States with higher home values tend to have lower percentage rates — agents still earn well per transaction, just at a smaller slice.
 
 | State | Avg. Total Rate | Avg. Listing Side | Avg. Buyer Side |
 |---|---|---|---|
@@ -68,27 +68,27 @@ Rates vary a lot by location. States with higher home values tend to have lower 
 
 *Last updated: June 2025*
 
-In California and New York, where median home prices top $600,000, total rates often stay below 5% (Source: RealTrends, 2025). In Alabama and Mississippi, 6% is still the norm — lower sale prices mean agents need higher percentages to cover their costs.
+In California and New York, where median home prices top $600,000, total rates often stay under 5% (Source: RealTrends, 2025). In Alabama and Mississippi, 6% is still common — lower sale prices mean agents need a higher percentage just to cover their costs.
 
-Discount brokers like [Redfin and Houwzer](/best-discount-real-estate-brokers) also push averages down in metro areas. A seller in suburban Denver will likely see different proposals than a seller in rural Georgia — sometimes by a full percentage point or more.
+Discount brokers like [Redfin and Houwzer](/best-discount-real-estate-brokers) also pull averages down in major metro areas. A seller in suburban Denver will likely see different rate proposals than one in rural Georgia — sometimes by a full point or more.
 
 ## How the 2024 NAR Settlement Changed Commissions
 
-In March 2024, the National Association of Realtors agreed to a $418 million settlement to resolve antitrust lawsuits claiming the industry had artificially held commission rates high (Source: NAR, 2024). New rules took effect August 17, 2024.
+In March 2024, the National Association of Realtors agreed to a $418 million settlement to resolve antitrust lawsuits claiming the industry had artificially inflated commissions (Source: NAR, 2024). The new rules went live August 17, 2024, and changed how commissions work in concrete ways.
 
 ### The Key MLS Rule Change
 
-Listing agents can no longer advertise buyer agent compensation on the MLS — the shared database where agents post property listings. Before the settlement, an MLS listing might show "2.5% offered to buyer's agent." That field is gone. Buyer agent fees are now negotiated directly between the parties, outside the MLS.
+Listing agents can no longer post buyer agent compensation offers on the MLS. Before the settlement, a listing might show "2.5% offered to buyer's agent." That field is gone. Buyer agent fees are now negotiated outside the MLS, directly between the parties.
 
 ### What Sellers Need to Know
 
-You are not required to offer buyer agent compensation when you list. Many sellers still do — but it's now an explicit choice, not a default. This matters when you're [calculating your net proceeds](/seller-net-proceeds-calculator) because the buyer agent fee no longer comes pre-baked into the standard listing contract.
+You are not required to offer buyer agent compensation when you list your home. Many sellers still choose to — but it's now an active decision, not a default. This matters when you're [calculating your net proceeds](/seller-net-proceeds-calculator), because the buyer agent fee is no longer automatically built into the listing contract.
 
 ### What Buyers Need to Know
 
-Before touring any home, you must sign a buyer representation agreement with your agent. It must clearly state how much your agent will be paid. That fee can come from the seller, from you directly, or some combination.
+Before touring any home, you must sign a buyer representation agreement. It has to clearly state how much your agent will be paid, and where that money comes from — the seller, you directly, or some combination.
 
-In practice, many sellers still offer buyer agent incentives to keep their buyer pool large. A NAR Member Survey from Q1 2025 found that roughly 70% of closed transactions still included seller-paid buyer agent compensation (Source: [NAR](https://www.nar.realtor), 2025). The settlement doesn't automatically save you money — but it gives you more control over the conversation.
+In practice, many sellers still offer buyer agent incentives to keep their buyer pool wide. A NAR Member Survey from Q1 2025 found that about 70% of closed transactions still included seller-paid buyer agent compensation (Source: [NAR](https://www.nar.realtor), 2025). The settlement doesn't automatically save you money. But it does give you more control over the negotiation.
 
 For a full breakdown, see our [NAR settlement explained](/nar-settlement-explained) guide.
 
@@ -118,78 +118,78 @@ Here's how the numbers look at two different commission levels.
 | Estimated Closing Costs (~2%) | $8,000 |
 | **Estimated Net Proceeds** | **$376,000** |
 
-Going from 5.5% to 4% saves you $6,000 on the same sale. For a full breakdown of what else comes out at closing, see our [closing costs calculator](/closing-costs-calculator).
+Dropping from 5.5% to 4% saves $6,000 on the same sale. For a full picture of what else comes out at closing, see our [closing costs calculator](/closing-costs-calculator).
 
-These are estimates. Actual closing costs typically run 1.5% to 3% depending on your state, title fees, and transfer taxes (Source: Bankrate, 2024). Before listing, ask your agent for a seller's net sheet — a line-by-line estimate of your actual proceeds.
+These are estimates. Actual closing costs typically run 1.5% to 3%, depending on your state, title fees, and transfer taxes (Source: Bankrate, 2024). Ask your agent for a seller's net sheet — a line-by-line estimate of your proceeds — before you list.
 
 ## Tips to Negotiate a Lower Commission in 2025
 
 ### Interview Multiple Listing Agents
 
-Get written proposals from at least three agents. Compare the rates, but also compare what's included — professional photography, staging consultation, open houses, marketing reach. Sellers who do this often find a 0.5–1% spread between proposals on the same property.
+Get written proposals from at least three agents. Compare rates, but also look at what each one includes — professional photography, staging consultation, open houses, marketing reach. Sellers who compare proposals often find a 0.5–1% spread between offers on the same property.
 
 ### Consider Discount Brokerages
 
-Redfin charges a 1% listing fee in select markets as of 2025. Flat-fee MLS companies can cut your listing costs further. The tradeoff: [discount brokers](/best-discount-real-estate-brokers) often provide fewer hands-on services — less in-person availability, standardized marketing instead of custom strategies.
+Redfin charges a 1% listing fee in select markets as of 2025. Flat-fee MLS companies can cut costs even further. The tradeoff: [discount brokers](/best-discount-real-estate-brokers) often provide fewer hands-on services — less in-person availability, standardized marketing instead of a custom plan.
 
 ### Offer a Competitive Buyer Agent Fee
 
-Even if you negotiate your listing side down, offering 2.5% or more to buyer's agents can bring in stronger buyer traffic. Cutting the buyer agent fee too hard — say, to 1% or less — may reduce showings and hurt your final price. A 2023 study in the *Journal of Financial Economics* found that homes offering lower buyer agent commissions took longer to sell and closed at lower prices relative to comparable listings.
+Even if you negotiate your listing side down, offering 2.5% or more to buyer's agents tends to attract stronger buyer traffic. Cutting the buyer agent fee too hard — say, to 1% or less — may reduce showings. A 2023 study in the *Journal of Financial Economics* found that homes offering lower buyer agent commissions took longer to sell and closed at lower prices relative to comparable listings.
 
 ### Use Market Conditions as Leverage
 
-In a hot seller's market where homes sell in under two weeks, your agent spends less time and money on marketing. That's a fair reason to ask for a lower rate. In a slow market, an agent may push back — and reasonably so, since they'll spend more on staging, marketing, and extended showing schedules.
+In a fast seller's market where homes go under contract in under two weeks, agents spend less time and money on your listing. That's a fair reason to ask for a lower rate. In a slower market, an agent may push back — they'll put more into staging, marketing, and extended showing schedules.
 
 ### Ask About Dual-Agency Discounts
 
-If your listing agent also brings the buyer, you can often negotiate a lower total commission since both sides go to one brokerage. Dual agency has different legal rules by state. Eight states, including Florida and Colorado, restrict or prohibit it entirely (Source: National Conference of State Legislatures). Read the contract carefully before agreeing.
+If your listing agent also brings the buyer, you can often negotiate a reduced total commission — both sides go to one brokerage. Dual agency has different legal rules by state. Eight states, including Florida and Colorado, restrict or prohibit it entirely (Source: National Conference of State Legislatures). Read the contract carefully before agreeing.
 
 ## For Sale By Owner (FSBO): Do You Still Pay Commission?
 
-Selling FSBO eliminates the listing agent fee — typically 2.5–3% of the sale price. On a $400,000 home, that's $10,000–$12,000 you keep. Our [FSBO guide](/fsbo-guide) covers the full process.
+Going FSBO cuts out the listing agent fee, typically 2.5–3%. On a $400,000 home, that's $10,000–$12,000 you keep. Our [FSBO guide](/fsbo-guide) covers the full process.
 
-After the NAR settlement, FSBO sellers decide for themselves whether to offer buyer agent compensation. There's no obligation to pay a buyer's agent. But roughly 88% of buyers used an agent in 2024 (Source: NAR Profile of Home Buyers and Sellers, 2024). Refusing to compensate buyer agents may shrink your buyer pool significantly.
+After the NAR settlement, FSBO sellers decide on their own whether to offer buyer agent compensation. You're not required to pay a buyer's agent. But 88% of buyers used an agent in 2024 (Source: NAR Profile of Home Buyers and Sellers, 2024). Refusing to compensate buyer's agents can shrink your buyer pool significantly.
 
 ### FSBO Tradeoffs Are Real
 
-The risks are measurable: pricing errors, legal exposure from disclosure mistakes, fewer showings. FSBO homes in 2024 had a median sale price of $380,000 versus $435,000 for agent-assisted sales — a $55,000 gap (Source: NAR, 2024). That difference can easily wipe out the commission savings, especially for sellers without real estate experience.
+The risks are measurable. Pricing errors, legal exposure from disclosure mistakes, fewer showings. FSBO homes in 2024 had a median sale price of $380,000 vs. $435,000 for agent-assisted sales — a $55,000 gap (Source: NAR, 2024). That difference can wipe out your commission savings, especially if you don't have real estate experience.
 
-**A practical middle ground:** Pay $300–$500 for a flat-fee MLS listing to get on the Multiple Listing Service, then negotiate buyer agent compensation separately. You get MLS exposure without paying a full listing percentage. Services like Houzeo and Beycome offer flat-fee packages in most states as of 2025.
+**A practical middle ground:** Pay $300–$500 for a flat-fee MLS listing to get your home on the MLS, then negotiate buyer agent compensation separately. You get the exposure without paying a full listing percentage. Services like Houzeo and Beycome offer flat-fee packages in most states as of 2025.
 
 ## How Agents Split Commission With Their Brokers
 
-The commission you pay doesn't go entirely to the agent. Every licensed agent works under a brokerage, and the brokerage takes a cut — often a large one.
+The commission you pay doesn't go entirely to the agent you work with. Every licensed agent operates under a brokerage, and that brokerage takes a cut — often a large one.
 
-New agents typically split 50/50 with their brokerage. On a 2.75% buyer agent commission for a $400,000 sale ($11,000), the agent keeps $5,500 and the brokerage keeps $5,500. Experienced agents negotiate better terms — 70/30 or 80/20 splits are common for agents with strong track records (Source: Bureau of Labor Statistics / NAR, 2024).
+New agents typically split 50/50 with their brokerage. A 2.75% buyer agent commission on a $400,000 sale is $11,000. The agent keeps $5,500. The brokerage keeps $5,500. Experienced agents negotiate better splits — 70/30 or 80/20 is common for those with strong track records (Source: Bureau of Labor Statistics / NAR, 2024).
 
-Top producers sometimes work at flat-fee brokerages like eXp Realty or Real Broker, keeping 90–100% of the commission after paying a small per-deal fee — typically $500–$750. This structure explains why agents resist deep discounts. A 1% commission cut can mean a 30–50% drop in their personal take-home after the brokerage split, self-employment taxes, and marketing costs.
+Top producers sometimes work at flat-fee brokerages like eXp Realty or Real Broker, keeping 90–100% of their commission after a small flat transaction fee, typically $500–$750 per deal. This explains why agents resist deep discounts. A 1% commission cut can mean a 30–50% drop in their personal take-home after the brokerage split, self-employment taxes, and marketing costs.
 
-That doesn't mean you shouldn't negotiate. It means negotiate with clear eyes — know what you're asking for and what you expect in return. Our guide on [how to find a real estate agent](/how-to-find-a-real-estate-agent) walks through evaluating agents on value, not just price.
+None of this means you shouldn't negotiate. It means negotiate with a clear picture of what you're asking for and what you're getting in return. Our [how to find a real estate agent](/how-to-find-a-real-estate-agent) guide covers how to evaluate agents on value, not just price.
 
 ---
 
 ## Frequently Asked Questions
 
 ### What is the average real estate commission rate in 2025?
-Nationally, it falls between 4.5% and 6%, split between listing and buyer agents (Source: RealTrends Verified, 2025). Since the 2024 NAR settlement, negotiation is more open, and some sellers are landing closer to 4–5% total.
+Nationally, rates fall between 4.5% and 6%, split between listing and buyer's agents (Source: RealTrends Verified, 2025). Since the 2024 NAR settlement, rates are more openly negotiable, and some sellers are landing closer to 4–5% total.
 
 ### Who pays the real estate commission — buyer or seller?
-Traditionally, the seller pays both agents from the sale proceeds. After the August 2024 NAR rule changes, buyers may now pay their own agent directly. But roughly 70% of transactions in early 2025 still included seller-paid buyer agent compensation (Source: NAR Member Survey, Q1 2025).
+Traditionally, the seller pays both agents from sale proceeds. After the August 2024 NAR rule changes, buyers may pay their own agent directly. But about 70% of early-2025 transactions still included seller-paid buyer agent compensation (Source: NAR Member Survey, Q1 2025).
 
 ### How do I calculate how much commission I'll owe?
-Multiply your expected sale price by the agreed commission rate. A $350,000 home at 5% equals $17,500 total. Use the calculator above to see the split and your estimated net proceeds.
+Multiply your expected sale price by the agreed commission rate. A $350,000 home at 5% equals $17,500 total. Use the calculator above to see the exact split and your estimated net proceeds.
 
 ### Is real estate commission negotiable in 2025?
-Yes. It has always been negotiable by law (Source: FTC, 2023). The 2024 NAR settlement made the process more transparent. You can compare agents, ask for lower rates, or use a discount broker to reduce costs.
+Yes. Commissions have always been negotiable by law (Source: FTC, 2023). The 2024 NAR settlement made that negotiation more transparent. You can compare agents, ask for lower rates, or use a discount broker to cut costs.
 
 ### What changed about buyer agent commissions after the NAR settlement?
-As of August 17, 2024, agents can no longer advertise buyer agent compensation on MLS listings. Sellers decide separately whether to offer it. Buyers must agree in writing to their agent's fee before touring homes (Source: NAR, 2024).
+As of August 17, 2024, agents can no longer advertise buyer agent compensation on MLS listings. Sellers choose separately whether to offer it. Buyers must agree in writing to their agent's fee before touring homes (Source: NAR, 2024).
 
 ### Do I pay commission if my home doesn't sell?
-In most listing agreements, no. But read your contract carefully. Some include cancellation fees or clauses that trigger a commission — for example, if you sell privately to a buyer the agent previously introduced.
+In most listing agreements, no commission is owed if the home doesn't sell. Read your contract carefully — some include cancellation fees or clauses that trigger a commission if you later sell privately to a buyer the agent had already introduced.
 
 ### Can a seller refuse to pay the buyer's agent commission?
-Yes. Under the post-settlement rules, sellers have no obligation to offer buyer agent compensation. But declining may reduce the number of buyers willing to tour your home, especially those who can't afford to pay their agent out of pocket.
+Yes. Under the post-settlement rules, sellers are not required to offer buyer agent compensation. But declining may reduce the number of buyers willing to tour your home, especially those who can't afford to pay their agent out of pocket.
 
 ---
 
