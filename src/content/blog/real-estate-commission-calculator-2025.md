@@ -33,13 +33,13 @@ Type your expected sale price into the input field. The calculator defaults to 5
 
 You can change the total percentage or adjust each side separately. For example, set the listing agent at 2.5% and the buyer's agent at 3%, or flip it the other way.
 
-Enter your numbers. The calculator shows what each agent earns, plus your estimated net proceeds after commission and closing costs. The 5–6% default is for reference only. Your actual rate depends on your market, your agent, and how you negotiate.
+Once you enter your numbers, the calculator shows the dollar amount each agent earns, plus your estimated net proceeds after commission and closing costs. The 5–6% default is there for reference only. Your actual rate depends on your market, your agent, and how you negotiate.
 
 ## What Is a Real Estate Commission in 2025?
 
-A real estate commission is a percentage of the final sale price paid to the agents involved. Traditionally, the seller paid this fee at closing — covering both their own agent and the buyer's agent.
+A real estate commission is a percentage of the final sale price paid to the agents involved. Historically, the seller paid this fee at closing — covering both their own agent and the buyer's agent.
 
-No law sets a required rate. Commissions have always been negotiable. The FTC made that point directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, the typical range is 4.5% to 6%, though local markets run higher or lower.
+No law sets a required rate. Commissions have always been negotiable. The FTC made this point directly in its 2023 review of real estate industry competition (Source: FTC, 2023). Nationally, the typical range is 4.5% to 6%, though your local market may run higher or lower.
 
 The biggest shift in 2025 came from the NAR settlement, which took effect August 17, 2024. Under the new rules, buyer agent compensation is negotiated separately from the listing agreement. Buyers must sign a written representation agreement disclosing their agent's fee before touring homes. Sellers no longer automatically bundle the buyer agent commission into their listing — they choose whether to offer it, and how much.
 
@@ -68,13 +68,13 @@ Rates vary a lot by location. States with higher home values tend to have lower 
 
 *Last updated: June 2025*
 
-In California and New York, where median home prices top $600,000, total rates often stay under 5% (Source: RealTrends, 2025). In Alabama and Mississippi, 6% is still common — lower sale prices mean agents need a higher percentage just to cover their costs.
+In California and New York, median home prices top $600,000. Total rates there often stay under 5% (Source: RealTrends, 2025). In Alabama and Mississippi, 6% is still common — lower sale prices mean agents need a higher percentage just to cover their costs.
 
 Discount brokers like [Redfin and Houwzer](/best-discount-real-estate-brokers) also pull averages down in major metro areas. A seller in suburban Denver will likely see different rate proposals than one in rural Georgia — sometimes by a full point or more.
 
 ## How the 2024 NAR Settlement Changed Commissions
 
-In March 2024, the National Association of Realtors agreed to a $418 million settlement to resolve antitrust lawsuits claiming the industry had artificially inflated commissions (Source: NAR, 2024). The new rules went live August 17, 2024, and changed how commissions work in concrete ways.
+In March 2024, the National Association of Realtors agreed to a $418 million settlement to resolve antitrust lawsuits. The claim was that the industry had artificially inflated commissions (Source: NAR, 2024). The new rules went live August 17, 2024, and changed how commissions work in concrete ways.
 
 ### The Key MLS Rule Change
 
@@ -86,7 +86,7 @@ You are not required to offer buyer agent compensation when you list your home. 
 
 ### What Buyers Need to Know
 
-Before touring any home, you must sign a buyer representation agreement. It has to clearly state how much your agent will be paid, and where that money comes from — the seller, you directly, or some combination.
+Before touring any home, you must sign a buyer representation agreement. It has to clearly state how much your agent will be paid and where that money comes from — the seller, you directly, or some combination.
 
 In practice, many sellers still offer buyer agent incentives to keep their buyer pool wide. A NAR Member Survey from Q1 2025 found that about 70% of closed transactions still included seller-paid buyer agent compensation (Source: [NAR](https://www.nar.realtor), 2025). The settlement doesn't automatically save you money. But it does give you more control over the negotiation.
 
