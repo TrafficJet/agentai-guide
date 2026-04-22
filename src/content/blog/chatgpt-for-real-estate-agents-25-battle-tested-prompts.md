@@ -6,6 +6,8 @@ description: "25 proven ChatGPT prompts for real estate agents covering listings
 author: "Alex Morgan"
 tags: ["ChatGPT for Real Estate Agents 25 Battle-Tested Prompts"]
 seoTitle: "ChatGPT for Real Estate Agents: 25 Battle-Tested Prompts"
+heroImage: "/images/chatgpt-for-real-estate-agents-25-battle-tested-prompts/hero.jpg"
+heroImageAlt: "Real estate agent reviewing ChatGPT-generated listing description on laptop"
 ---
 
 # ChatGPT for Real Estate Agents: 25 Battle-Tested Prompts
