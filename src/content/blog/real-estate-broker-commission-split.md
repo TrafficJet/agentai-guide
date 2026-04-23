@@ -6,6 +6,8 @@ description: "Learn how real estate broker commission splits work in 2026, inclu
 author: "Alex Morgan"
 tags: ["real estate broker commission split"]
 seoTitle: "Real Estate Broker Commission Splits Explained (2026)"
+heroImage: "/images/real-estate-broker-commission-split/hero.jpg"
+heroImageAlt: "Real estate agent reviewing commission contract and financial documents at desk"
 ---
 
 # Real Estate Broker Commission Splits Explained (2026)
