@@ -121,6 +121,16 @@ Start with customer support because it directly affects retention and your own t
 
 For current comparisons of Shopify apps across all these categories — including pricing tiers, integration quality, and user reviews — visit [app-compare.com](https://app-compare.com).
 
+## AI Writing Tools for Shopify Product Descriptions and Marketing Copy
+
+Beyond the agent platforms above, two tools are worth evaluating specifically for product description and ad copy generation at scale:
+
+**[Copy.ai](https://www.copy.ai/)** — The free tier generates solid product descriptions, email subject lines, and ad headlines without prompt engineering. For Shopify merchants managing 100+ SKUs, the bulk generation workflows save hours per week. Paid plans from $36/month include brand voice settings that maintain consistency across your entire catalog.
+
+**[Jasper AI](https://www.jasper.ai/)** — Better for stores with active content marketing: blog posts, email campaigns, and landing pages. Jasper's Shopify-specific templates and brand voice memory are well-suited to stores running regular promotional content. Plans from $39/month. Particularly useful if multiple team members need to generate on-brand content without a dedicated copywriter.
+
+Both integrate with Shopify workflows through Zapier. If your bottleneck is generating product copy faster than your team can write it, either tool addresses that directly — and both offer free trials to test on your actual catalog before committing.
+
 ---
 
 ## Frequently Asked Questions
