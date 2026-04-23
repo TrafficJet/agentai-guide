@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT for Real Estate Agents: 25 Prompts That Close Deals"
+title: "25 ChatGPT Prompts for Real Estate Agents That Close Deals (2026)"
 slug: "chatgpt-for-real-estate-agents--25-battle-tested-prompts-that-actually-close-deals-in-2026"
 pubDate: 2026-04-19
-description: "25 battle-tested ChatGPT prompts for real estate agents. Generate listings, emails, scripts & social posts. Free PDF download. Boost productivity in 2026."
+description: "Copy these 25 ChatGPT prompts and use them today: listing descriptions, follow-up emails, offer scripts, and social posts. Agents report saving 6–10 hrs/week."
 author: "Alex Morgan"
-tags: ["ChatGPT for Real Estate Agents — 25 Battle-Tested Prompts That Actually Close Deals in 2026"]
-seoTitle: "ChatGPT for Real Estate Agents: 25 Prompts That Close Deals | AgentAI"
+tags: ["chatgpt prompts for real estate agents"]
+seoTitle: "25 ChatGPT Prompts for Real Estate Agents That Close Deals (2026)"
 ---
 **Author:** *A licensed real estate advisor with 9+ years of experience coaching agents on technology adoption and marketing strategy.*
 
