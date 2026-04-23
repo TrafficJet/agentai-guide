@@ -6,6 +6,8 @@ description: "Find out exactly what buyer's agent commissions looked like in 202
 author: "Alex Morgan"
 tags: ["buyers agent commission 2025"]
 seoTitle: "Buyer's Agent Commission in 2025: What You Paid"
+heroImage: "/images/buyers-agent-commission-2025/hero.jpg"
+heroImageAlt: "Real estate agent discussing home purchase details with buyer in modern living room"
 ---
 
 # Buyer's Agent Commission in 2025: What You Paid
