@@ -6,6 +6,8 @@ description: "Learn how to use ChatGPT to write real estate follow-up sequences 
 author: "Alex Morgan"
 tags: ["chatgpt for real estate follow-up sequences"]
 seoTitle: "ChatGPT for Real Estate Follow-Up Sequences"
+heroImage: "/images/chatgpt-for-real-estate-follow-up-sequences/hero.jpg"
+heroImageAlt: "Real estate agent reviewing personalized follow-up emails on laptop screen"
 ---
 
 # ChatGPT for Real Estate Follow-Up Sequences
