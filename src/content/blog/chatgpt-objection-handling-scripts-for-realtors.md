@@ -6,6 +6,8 @@ description: "Get proven ChatGPT objection handling scripts for realtors. Copy-p
 author: "Alex Morgan"
 tags: ["chatgpt objection handling scripts for realtors"]
 seoTitle: "ChatGPT Objection Handling Scripts for Realtors"
+heroImage: "/images/chatgpt-objection-handling-scripts-for-realtors/hero.jpg"
+heroImageAlt: "Real estate agent having a confident conversation with client during consultation meeting"
 ---
 
 # ChatGPT Objection Handling Scripts for Realtors
