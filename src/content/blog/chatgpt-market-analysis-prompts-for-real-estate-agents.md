@@ -6,6 +6,8 @@ description: "Get 20+ proven ChatGPT prompts for real estate market analysis. Sa
 author: "Alex Morgan"
 tags: ["chatgpt market analysis prompts for real estate agents"]
 seoTitle: "ChatGPT Market Analysis Prompts for Real Estate Agents"
+heroImage: "/images/chatgpt-market-analysis-prompts-for-real-estate-agents/hero.jpg"
+heroImageAlt: "Real estate agent reviewing market data and comparative analysis on laptop screen"
 ---
 
 # ChatGPT Market Analysis Prompts for Real Estate Agents
