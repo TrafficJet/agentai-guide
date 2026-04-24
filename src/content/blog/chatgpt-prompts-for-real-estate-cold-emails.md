@@ -6,6 +6,8 @@ description: "Get proven ChatGPT prompts for real estate cold emails that book m
 author: "Alex Morgan"
 tags: ["chatgpt prompts for real estate cold emails"]
 seoTitle: "ChatGPT Prompts for Real Estate Cold Emails"
+heroImage: "/images/chatgpt-prompts-for-real-estate-cold-emails/hero.jpg"
+heroImageAlt: "Real estate agent typing cold email on laptop at desk"
 ---
 
 # ChatGPT Prompts for Real Estate Cold Emails
