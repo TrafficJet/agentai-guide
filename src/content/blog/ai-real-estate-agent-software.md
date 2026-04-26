@@ -6,6 +6,8 @@ description: "Discover the best AI real estate agent software for 2026. Compare 
 author: "Alex Morgan"
 tags: ["ai real estate agent software"]
 seoTitle: "AI Real Estate Agent Software: Top Picks 2026 | AgentAI Guide"
+heroImage: "/images/ai-real-estate-agent-software/hero.jpg"
+heroImageAlt: "Real estate agent using AI software dashboard on laptop to review qualified leads and property listings"
 ---
 
 # AI Real Estate Agent Software: Top Picks for 2026
