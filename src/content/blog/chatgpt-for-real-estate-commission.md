@@ -6,6 +6,8 @@ description: "Use ChatGPT prompts to negotiate buyer and seller agent commission
 author: "Alex Morgan"
 tags: ["chatgpt for real estate commission"]
 seoTitle: "ChatGPT for Real Estate Commission: Negotiate Lower Fees in 2026"
+heroImage: "/images/chatgpt-for-real-estate-commission/hero.jpg"
+heroImageAlt: "Real estate agent and homebuyer reviewing purchase agreement and commission terms at wooden desk"
 ---
 
 # ChatGPT for Real Estate Commission: Save More in 2026
