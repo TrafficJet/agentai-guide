@@ -6,6 +6,8 @@ description: "Learn how to automate commission splits, disbursements, and 1099 r
 author: "Alex Morgan"
 tags: ["automate real estate commission with ai"]
 seoTitle: "Automate Real Estate Commission with AI in 2026 | AgentAI Guide"
+heroImage: "/images/automate-real-estate-commission-with-ai/hero.jpg"
+heroImageAlt: "Real estate agent reviewing commission calculations and splits on laptop screen"
 ---
 
 # Automate Real Estate Commissions With AI in 2026
