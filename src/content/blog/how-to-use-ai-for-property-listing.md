@@ -6,6 +6,8 @@ description: "Learn how to use AI for property listings in 2026. AI-powered tool
 author: "Alex Morgan"
 tags: ["how to use ai for property listing"]
 seoTitle: "How to Use AI for Property Listings That Sell Fast | AgentAI Guide"
+heroImage: "/images/how-to-use-ai-for-property-listing/hero.jpg"
+heroImageAlt: "Real estate agent using AI tools on laptop to write property descriptions"
 ---
 
 # How to Use AI for Property Listings That Sell Fast
