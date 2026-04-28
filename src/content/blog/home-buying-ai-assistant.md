@@ -6,6 +6,8 @@ description: "Discover how AI home buying assistants filter listings, estimate p
 author: "Alex Morgan"
 tags: ["home buying ai assistant"]
 seoTitle: "Home Buying AI Assistant: Find Your House Faster | AgentAI Guide"
+heroImage: "/images/home-buying-ai-assistant/hero.jpg"
+heroImageAlt: "Person using laptop to search real estate listings and property information"
 ---
 
 # Home Buying AI Assistant: Find Your House Faster
