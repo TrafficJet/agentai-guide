@@ -6,6 +6,8 @@ description: "Learn which listing agent tasks AI can automate, from MLS descript
 author: "Alex Morgan"
 tags: ["automate listing agent with ai"]
 seoTitle: "Automate Listing Agent Tasks with AI | AgentAI Guide"
+heroImage: "/images/automate-listing-agent-with-ai/hero.jpg"
+heroImageAlt: "Real estate agent reviewing property listings on laptop with MLS software open"
 ---
 
 # Automate Your Listing Agent Tasks with AI in 2025
