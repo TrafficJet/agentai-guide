@@ -6,6 +6,8 @@ description: "Compare leading AI buyer agent software platforms. Discover how AI
 author: "Alex Morgan"
 tags: ["ai buyer agent software"]
 seoTitle: "AI Buyer Agent Software: Top Tools & Platforms 2026 | AgentAI Guide"
+heroImage: "/images/ai-buyer-agent-software/hero.jpg"
+heroImageAlt: "Real estate professional reviewing property listings and buyer data on laptop screen"
 ---
 
 # AI Buyer Agent Software: Top Tools for 2026
