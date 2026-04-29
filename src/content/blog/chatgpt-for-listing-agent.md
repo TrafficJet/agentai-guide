@@ -6,6 +6,8 @@ description: "Learn tested ChatGPT prompts, MLS writing formulas, and compliance
 author: "Alex Morgan"
 tags: ["chatgpt for listing agent"]
 seoTitle: "ChatGPT for Listing Agents: Close More Deals in 2026"
+heroImage: "/images/chatgpt-for-listing-agent/hero.jpg"
+heroImageAlt: "Listing agent typing MLS property description on laptop at desk"
 ---
 
 # ChatGPT for Listing Agents: Close More Deals in 2026
