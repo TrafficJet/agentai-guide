@@ -6,6 +6,8 @@ description: "Discover the best AI tools for real estate leads in 2026. Compare 
 author: "Alex Morgan"
 tags: ["ai tools for real estate leads"]
 seoTitle: "AI Tools for Real Estate Leads: Top Picks 2026 | AgentAI Guide"
+heroImage: "/images/ai-tools-for-real-estate-leads/hero.jpg"
+heroImageAlt: "Real estate agent reviewing lead scoring data and prospect information on laptop"
 ---
 
 # AI Tools for Real Estate Leads: Top Picks for 2026
