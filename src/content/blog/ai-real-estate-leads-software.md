@@ -6,6 +6,8 @@ description: "Compare the best AI real estate leads software for 2026. Learn how
 author: "Alex Morgan"
 tags: ["ai real estate leads software"]
 seoTitle: "AI Real Estate Leads Software: Top Picks for 2026 | AgentAI Guide"
+heroImage: "/images/ai-real-estate-leads-software/hero.jpg"
+heroImageAlt: "Real estate agent reviewing AI-generated lead scores and prospect data on computer screen"
 ---
 
 # AI Real Estate Leads Software: Top Picks for 2026
