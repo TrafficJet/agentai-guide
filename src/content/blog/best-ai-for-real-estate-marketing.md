@@ -6,6 +6,8 @@ description: "Compare top AI tools for real estate marketing: listing copy, lead
 author: "Alex Morgan"
 tags: ["best ai for real estate marketing"]
 seoTitle: "Best AI for Real Estate Marketing 2026 | AgentAI Guide"
+heroImage: "/images/best-ai-for-real-estate-marketing/hero.jpg"
+heroImageAlt: "Real estate agent typing listing descriptions on laptop at desk"
 ---
 
 # Best AI for Real Estate Marketing in 2026
