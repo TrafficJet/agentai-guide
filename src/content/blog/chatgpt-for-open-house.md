@@ -6,6 +6,8 @@ description: "10 ChatGPT prompts + email templates to prep your open house in mi
 author: "Alex Morgan"
 tags: ["chatgpt for open house"]
 seoTitle: "ChatGPT for Open House: Scripts, Tips & Ready-to-Use Prompts"
+heroImage: "/images/chatgpt-for-open-house/hero.jpg"
+heroImageAlt: "Real estate agent greeting buyers at open house entrance"
 ---
 
 # ChatGPT for Open House: Scripts, Tips & Ideas
