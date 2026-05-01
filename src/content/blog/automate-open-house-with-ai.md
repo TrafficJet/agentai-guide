@@ -6,6 +6,8 @@ description: "Learn how to automate your open house with AI-powered sign-ins, le
 author: "Alex Morgan"
 tags: ["automate open house with ai"]
 seoTitle: "Automate Open House with AI: Save Time & Sell Faster | AgentAI Guide"
+heroImage: "/images/automate-open-house-with-ai/hero.jpg"
+heroImageAlt: "Real estate agent using digital tablet to check in visitors at open house entrance"
 ---
 
 # Automate Your Open House with AI: Save Time and Sell Faster
