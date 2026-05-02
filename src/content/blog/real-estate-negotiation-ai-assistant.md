@@ -6,6 +6,8 @@ description: "Learn how real estate negotiation AI assistants use MLS data and m
 author: "Alex Morgan"
 tags: ["real estate negotiation ai assistant"]
 seoTitle: "Real Estate Negotiation AI Assistant: Close Better Deals in 2026"
+heroImage: "/images/real-estate-negotiation-ai-assistant/hero.jpg"
+heroImageAlt: "Real estate agent reviewing property offer and contract details on laptop screen"
 ---
 
 # Real Estate Negotiation AI Assistant: Close Better Deals
