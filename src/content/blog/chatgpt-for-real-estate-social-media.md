@@ -6,6 +6,8 @@ description: "Learn how real estate agents use ChatGPT to cut content creation t
 author: "Alex Morgan"
 tags: ["chatgpt for real estate social media"]
 seoTitle: "ChatGPT for Real Estate Social Media: 2026 Guide | AgentAI"
+heroImage: "/images/chatgpt-for-real-estate-social-media/hero.jpg"
+heroImageAlt: "Real estate agent creating social media content on laptop with property listings visible"
 ---
 
 # ChatGPT for Real Estate Social Media: 2026 Guide
