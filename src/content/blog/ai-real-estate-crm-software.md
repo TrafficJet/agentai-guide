@@ -6,6 +6,8 @@ description: "Compare top AI real estate CRM software platforms with lead scorin
 author: "Alex Morgan"
 tags: ["ai real estate crm software"]
 seoTitle: "AI Real Estate CRM Software: Top 6 Picks for 2026 | AgentAI Guide"
+heroImage: "/images/ai-real-estate-crm-software/hero.jpg"
+heroImageAlt: "Real estate agent reviewing property leads and client data on CRM dashboard"
 ---
 
 # AI Real Estate CRM Software: Top Picks for 2026
