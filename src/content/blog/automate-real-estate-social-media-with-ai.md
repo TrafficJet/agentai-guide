@@ -6,6 +6,8 @@ description: "Learn how to automate real estate social media with AI tools like 
 author: "Alex Morgan"
 tags: ["automate real estate social media with ai"]
 seoTitle: "Automate Real Estate Social Media With AI in 2026 | AgentAI Guide"
+heroImage: "/images/automate-real-estate-social-media-with-ai/hero.jpg"
+heroImageAlt: "Real estate agent managing social media calendar and posts on laptop screen"
 ---
 
 # Automate Real Estate Social Media With AI in 2026
