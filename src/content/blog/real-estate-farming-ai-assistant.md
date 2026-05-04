@@ -6,6 +6,8 @@ description: "Learn how real estate farming AI assistants use predictive analyti
 author: "Alex Morgan"
 tags: ["real estate farming ai assistant"]
 seoTitle: "Real Estate Farming AI Assistant: Close More Listings | AgentAI Guide"
+heroImage: "/images/real-estate-farming-ai-assistant/hero.jpg"
+heroImageAlt: "Real estate agent reviewing MLS data and neighborhood analytics on laptop"
 ---
 
 # Real Estate Farming AI Assistant: Close More Listings in 2026
