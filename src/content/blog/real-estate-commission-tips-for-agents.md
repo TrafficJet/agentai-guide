@@ -6,6 +6,8 @@ description: "Master commission negotiation, buyer-side protection & pricing str
 author: "Alex Morgan"
 tags: ["real estate commission tips for agents"]
 seoTitle: "Real Estate Commission Tips for Agents 2026 | NAR Settlement Guide"
+heroImage: "/images/real-estate-commission-tips-for-agents/hero.jpg"
+heroImageAlt: "Real estate agent presenting commission and market data to clients during listing consultation"
 ---
 
 # Real Estate Commission Tips for Agents in 2026
