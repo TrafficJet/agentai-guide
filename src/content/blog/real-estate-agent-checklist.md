@@ -6,6 +6,8 @@ description: "Master the real estate agent checklist covering listings, buyer re
 author: "Alex Morgan"
 tags: ["real estate agent checklist"]
 seoTitle: "Real Estate Agent Checklist: Complete Deal-to-Close Steps | AgentAI Guide"
+heroImage: "/images/real-estate-agent-checklist/hero.jpg"
+heroImageAlt: "Real estate agent reviewing transaction documents and checklist at office desk"
 ---
 
 # Real Estate Agent Checklist: Steps to Close Deals
