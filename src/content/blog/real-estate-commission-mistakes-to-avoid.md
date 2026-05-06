@@ -6,6 +6,8 @@ description: "Learn the 7 costliest real estate commission mistakes after the 20
 author: "Vladislav T."
 tags: ["real estate commission mistakes to avoid"]
 seoTitle: "Real Estate Commission Mistakes to Avoid in 2026 | AgentAI Guide"
+heroImage: "/images/real-estate-commission-mistakes-to-avoid/hero.jpg"
+heroImageAlt: "Real estate agent and homeowner reviewing and signing commission agreement at desk"
 ---
 
 # Real Estate Commission Mistakes to Avoid in 2026
