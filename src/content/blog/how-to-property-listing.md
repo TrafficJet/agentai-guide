@@ -6,6 +6,8 @@ description: "Master property listings with our step-by-step guide. Learn pricin
 author: "Vladislav T."
 tags: ["how to property listing"]
 seoTitle: "How to Create a Property Listing That Sells Fast | AgentAI Guide"
+heroImage: "/images/how-to-property-listing/hero.jpg"
+heroImageAlt: "Real estate agent staging and photographing a bright modern home interior for property listing"
 ---
 
 # How to Create a Property Listing That Sells Fast
