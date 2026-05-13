@@ -6,6 +6,8 @@ description: "Learn what property listings include, how the MLS works, and how t
 author: "Vladislav T."
 tags: ["what is property listing"]
 seoTitle: "What Is a Property Listing? Complete Guide to MLS & Online Listings"
+heroImage: "/images/what-is-property-listing/hero.jpg"
+heroImageAlt: "Property listing sign displayed in front of residential home with yard visible"
 ---
 
 # What Is a Property Listing? A Plain-English Guide
