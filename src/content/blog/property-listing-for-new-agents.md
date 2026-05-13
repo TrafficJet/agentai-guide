@@ -6,6 +6,8 @@ description: "Master property listings as a new agent. Learn pricing, MLS entry,
 author: "Vladislav T."
 tags: ["property listing for new agents"]
 seoTitle: "Property Listing for New Agents: Complete MLS Guide | AgentAI"
+heroImage: "/images/property-listing-for-new-agents/hero.jpg"
+heroImageAlt: "Real estate agent presenting a home listing to potential buyers during a property showing"
 ---
 
 # Property Listing Guide for New Real Estate Agents
