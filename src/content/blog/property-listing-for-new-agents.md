@@ -6,6 +6,8 @@ description: "Learn how to create winning property listings as a new agent. Mast
 author: "Vladislav T."
 tags: ["property listing for new agents"]
 seoTitle: "Property Listing Guide for New Real Estate Agents | AgentAI"
+heroImage: "/images/property-listing-for-new-agents/hero.jpg"
+heroImageAlt: "Real estate agent presenting a home listing to prospective buyers during a showing"
 ---
 
 # Property Listing Guide for New Real Estate Agents
