@@ -6,6 +6,8 @@ description: "Complete buyer agent checklist with 12 essential steps from repres
 author: "Vladislav T."
 tags: ["buyer agent checklist"]
 seoTitle: "Buyer Agent Checklist: 12 Steps to Close in 2026 | AgentAI"
+heroImage: "/images/buyer-agent-checklist/hero.jpg"
+heroImageAlt: "Real estate agent reviewing buyer checklist and documents with client at desk"
 ---
 
 # Buyer Agent Checklist: 12 Steps to Close in 2026
