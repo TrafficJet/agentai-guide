@@ -6,6 +6,8 @@ description: "Master listing agent tips for winning appointments, pricing strate
 author: "Vladislav T."
 tags: ["listing agent tips for agents"]
 seoTitle: "Listing Agent Tips to Win More Sellers in 2026 | AgentAI Guide"
+heroImage: "/images/listing-agent-tips-for-agents/hero.jpg"
+heroImageAlt: "Listing agent walking through home with seller during listing appointment"
 ---
 
 # Listing Agent Tips to Win More Sellers in 2026
