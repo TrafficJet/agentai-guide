@@ -6,6 +6,8 @@ description: "Master real estate marketing in 2026: website optimization, local 
 author: "Vladislav T."
 tags: ["how to improve real estate marketing"]
 seoTitle: "How to Improve Real Estate Marketing in 2026 | AgentAI Guide"
+heroImage: "/images/how-to-improve-real-estate-marketing/hero.jpg"
+heroImageAlt: "Real estate agent presenting a modern home interior to interested buyers during a property showing"
 ---
 
 # How to Improve Real Estate Marketing in 2026
