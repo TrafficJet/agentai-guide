@@ -6,6 +6,8 @@ description: "Complete playbook for generating leads, building local authority, 
 author: "Vladislav T."
 tags: ["real estate marketing guide 2026"]
 seoTitle: "Real Estate Marketing Guide 2026 | Strategies That Work"
+heroImage: "/images/real-estate-marketing-guide-2026/hero.jpg"
+heroImageAlt: "Real estate agent presenting home features to interested buyers during showing"
 ---
 
 # Real Estate Marketing Guide 2026: Strategies That Work
