@@ -6,6 +6,8 @@ description: "Avoid costly listing agent mistakes: overpricing, poor photos, wea
 author: "Vladislav T."
 tags: ["listing agent mistakes to avoid"]
 seoTitle: "Listing Agent Mistakes to Avoid When Selling | AgentAI Guide"
+heroImage: "/images/listing-agent-mistakes-to-avoid/hero.jpg"
+heroImageAlt: "Real estate listing agent presenting a home to prospective buyers during a showing"
 ---
 
 # Listing Agent Mistakes to Avoid When Selling
